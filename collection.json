@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "MARS Demo Project #0.1",
+    "description": "Demo MARS Project on IMX #0.1",
+    "image": "https://marsgames.com/wp-content/uploads/2024/07/Mars-Logo-New.png",
+    "external_link": "https://marsgames.com/" 
 }
